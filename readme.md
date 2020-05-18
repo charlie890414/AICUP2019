@@ -12,7 +12,7 @@ Ciel 進入[決選名單](https://aidea-web.tw/topic/6c6ecbdd-fe03-4592-a81c-080
 
 QQ Public Leaderboard [第十名](https://tbrain.trendmicro.com.tw/Competitions/Details/8)
 
-## 工智慧論文機器閱讀競賽之論文分類
+## 人工智慧論文機器閱讀競賽之論文分類
 
 在 Public Leaderboard [消失的 QQ 應該要在第27的](https://tbrain.trendmicro.com.tw/Competitions/Details/9)
 
