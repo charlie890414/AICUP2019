@@ -15,3 +15,5 @@ QQ Public Leaderboard [第十名](https://tbrain.trendmicro.com.tw/Competitions/
 ## 工智慧論文機器閱讀競賽之論文分類
 
 在 Public Leaderboard [消失的 QQ 應該要在第27的](https://tbrain.trendmicro.com.tw/Competitions/Details/9)
+
+論文機器閱讀競賽都沒能在 12/30 最後上傳期限前交出 Private Dataset 的結果 真的QQ了
